@@ -53,10 +53,10 @@ h1 {
   width: 160px;
   background-color: lightcoral;
   overflow: hidden;
-}
-h1:hover {
   animation: moveAcross 3s linear infinite;
 }
+/* h1:hover {
+} */
 .centered-block {
   max-width: 400px;
   padding: 1em;
